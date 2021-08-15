@@ -1,6 +1,6 @@
 ### Olá,  👋
 - 🔭 Atualmente estou trabalhando em projetos com APIs e atuando em Governaça de Sensedia, TFS e Digibee.
-- 🌱 Atualmente estou aprendendo e me Aperfeiçoando em tecnologias: Angular / NodeJS / Typescript
+- 🌱 Atualmente estou aprendendo e me aperfeiçoando em tecnologias: Angular / NodeJS / Typescript
 - 📫 Como entrar em contato comigo: eraldoads@gmail.com
 
 ##
