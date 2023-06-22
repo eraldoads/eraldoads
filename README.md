@@ -1,7 +1,7 @@
 ### Olá,  👋
-- 🔭 Atualmente estou trabalhando em projetos com APIs e atuando em Governaça de Sensedia, OpenShift, TFS e Digibee.
-- 🌱 Atualmente estou aprendendo e me aperfeiçoando em tecnologias: Angular / NodeJS / Typescript
-- 📫 Como entrar em contato comigo: eraldoads@gmail.com
+- 🧑‍💻 Sou um Analista de Sistemas / desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em desenvolver APIs em .NET C#. Atualmente estou trabalhando em projetos com APIs e atuando em Governaça da Sensedia, OpenShift, TFS e Digibee.
+- 🖥️ Atualmente estou aprendendo e me aperfeiçoando nas tecnologias: Angular / NodeJS / Typescript
+- ✉️ Como entrar em contato comigo: eraldoads@gmail.com
 
 ##
 
