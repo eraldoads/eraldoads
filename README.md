@@ -1,8 +1,9 @@
 ### Olá,  👋
-- 🧑‍💻 Sou um Analista de Sistemas e desenvolvedor entusiasta, apaixonado por conceber soluções inovadoras e altamente eficazes. Possuo uma sólida experiência na criação de APIs em .NET C# e atualmente estou imerso em projetos que envolvem expertise com as plataformas Sensedia e Digibee, além da utilização do OpenShift e integração com o TFS.
-- 🎓POS Graduando em Arquitetura de Software.
-- 🖥️ Atualmente estou aprendendo e me aperfeiçoando nas tecnologias: Angular / NodeJS / Typescript / Docker
-- ✉️ Como entrar em contato comigo: eraldoads@gmail.com
+- 🧑‍💻 Sou Analista de Sistemas Sênior e Lide Técnico, desenvolvedor apaixonado por soluções inovadoras, amante da inteligência artificial e curioso pela computação quântica.
+- 👨🏻‍💻 Experiência em APIs .NET C# e atuação com Sensedia, Digibee, OpenShift e TFS.
+- 🎓 Pós-graduado em Arquitetura de Software.
+- 🖥️ Aprimorando conhecimentos em Angular, NodeJS, Typescript, Docker, AWS, Azure Devops.
+- ✉️ Contato: eraldoads@gmail.com
 
 ##
 
