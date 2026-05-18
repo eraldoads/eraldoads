@@ -1,5 +1,5 @@
 ### Olá,  👋
-- 🧑‍💻 Sou Analista de Sistemas Sênior e Lide Técnico, desenvolvedor apaixonado por soluções inovadoras, amante da inteligência artificial e curioso pela computação quântica.
+- 🧑‍💻 Sou Analista de Sistemas Sênior e Lider Técnico, desenvolvedor apaixonado por soluções inovadoras, amante da inteligência artificial e curioso pela computação quântica.
 - 👨🏻‍💻 Experiência em APIs .NET C# e atuação com Sensedia, Digibee, OpenShift e TFS.
 - 🎓 Pós-graduado em Arquitetura de Software.
 - 🖥️ Aprimorando conhecimentos em Angular, NodeJS, Typescript, Docker, AWS, Azure Devops.
